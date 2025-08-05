@@ -1,28 +1,26 @@
-# 📄 Facebook Signup Page
+# 👤 Facebook Login Page Clone
 
-This project is a fully responsive Facebook signup page clone built using **HTML**, **CSS**, and **JavaScript**. It replicates the look and feel of the original Facebook signup interface with additional enhancements.
+A clean and responsive **Facebook Login Page Clone** built using **HTML5**, **CSS3**, and **JavaScript**. This project replicates the core visual layout and basic functionality of Facebook's login interface, ideal for practicing modern web design and form validation.
+
+---
 
 ## 🚀 Features
 
-- **📱 Responsive Design:** The page is fully responsive, ensuring a seamless user experience across all devices, including desktops, tablets, and mobile phones.
-- **📄 jsPDF Integration:** Users can fill out the signup form, and with the click of a button, their data is exported and saved as a PDF document, thanks to the `jsPDF` library.
-- **💡 Interactive UI:** The form includes real-time validation and dynamic input handling to enhance user interaction.
+- 🎨 **Modern UI** – Visually inspired by the original Facebook login screen.
+- 📱 **Responsive Design** – Works seamlessly across mobile, tablet, and desktop screens.
+- 🔐 **Login Form** – Email/phone and password input fields with basic front-end validation.
+- 🔗 **Links & Footer** – Includes "Forgotten password?" and "Create new account" links.
+- ✨ **Animations & Interactions** – Smooth transitions and focus effects using CSS and JS.
+
+---
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **jsPDF Library**
+### 🌐 Frontend
 
-## Screenshots 
-#### Main View 
-![image](https://github.com/user-attachments/assets/4652ef5a-a1cf-460a-a703-2303f31e10fd)
-#### PDf data View 
-![image](https://github.com/user-attachments/assets/f0b7735d-4c46-4bce-9296-396db4bb9d09)
+- **HTML5** – Structure and markup of the page
+- **CSS3** – Custom styling using Flexbox and responsive media queries
+- **JavaScript** – Input validation and minor interactivity
 
-## 📦 How to Use
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Zubair1021/Facebook_SignUp_Page.git
+
